@@ -3,7 +3,7 @@
 /**
  * Plugin Name: FOUR 4to6 Block-Examples
  * Plugin URI: https://github.com/four4to6/4to6-Block-Examples
- * Description: ƒuƒƒbƒNƒGƒfƒBƒ^ (Gutenberg) ‚Ì Custom Block Plugin ‚Å‚·B
+ * Description: This is the Custom Block Plugin of the Block Editor (Gutenberg).
  * Author:  FOUR 4to6
  * Author URI: https://neco913.kirara.st/
  * Version: 1.0.0
@@ -52,7 +52,7 @@ function four_4to6_custom_block_example_enqueue($hook) {
 }
 add_action( 'enqueue_block_assets', 'four_4to6_custom_block_example_enqueue' );
 
-// ƒc[ƒ‹ƒo[ƒ{ƒ^ƒ“ script 
+// ãƒ„ãƒ¼ãƒ«ãƒãƒ¼ãƒœã‚¿ãƒ³ script 
 function custom_toolbar_btn($hook) {
     wp_enqueue_script( 'toolbar_btn_js', plugins_url( 'js/toolbar_btn.js', __FILE__ ),
     array( 'wp-blocks', 'wp-element', 'wp-rich-text', 'wp-editor', 'wp-components' )
@@ -60,7 +60,7 @@ function custom_toolbar_btn($hook) {
 }
 add_action('enqueue_block_editor_assets','custom_toolbar_btn');
 
-// ƒc[ƒ‹ƒo[ƒ{ƒ^ƒ“ css
+// ãƒ„ãƒ¼ãƒ«ãƒãƒ¼ãƒœã‚¿ãƒ³ css
 function custom_style_toolbar_btn($hook) {
     wp_enqueue_style( 'toolbar_btn_css', plugins_url( 'css/toolbar_btn.css', __FILE__ ),
     array(),
@@ -69,7 +69,7 @@ function custom_style_toolbar_btn($hook) {
 }
 add_action('enqueue_block_assets','custom_style_toolbar_btn');
 
-// ƒXƒ^ƒCƒ‹ƒZƒŒƒNƒg‹@”\ script
+// ã‚¹ã‚¿ã‚¤ãƒ«ã‚»ãƒ¬ã‚¯ãƒˆæ©Ÿèƒ½ script
 function style_editor($hook) {
     wp_enqueue_script( 'style_js', plugins_url( 'js/style.js', __FILE__ ),
     array( 'wp-blocks', 'wp-element', 'wp-editor' )
@@ -77,7 +77,7 @@ function style_editor($hook) {
 }
 add_action('enqueue_block_editor_assets','style_editor');
  
-// ƒXƒ^ƒCƒ‹ƒZƒŒƒNƒg‹@”\ css
+// ã‚¹ã‚¿ã‚¤ãƒ«ã‚»ãƒ¬ã‚¯ãƒˆæ©Ÿèƒ½ css
 function style_frontend_editor($hook) {
     wp_enqueue_style( 'style_css', plugins_url( 'css/style.css', __FILE__ ),
     array(),
@@ -86,7 +86,7 @@ function style_frontend_editor($hook) {
 }
 add_action('enqueue_block_assets', 'style_frontend_editor');
 
-// ƒRƒ“ƒgƒ[ƒ‹ƒpƒlƒ‹js‚ğ“Ç‚İ‚Ş
+// ã‚³ãƒ³ãƒˆãƒ­ãƒ¼ãƒ«ãƒ‘ãƒãƒ«jsã‚’èª­ã¿è¾¼ã‚€
 function custom_block_control_panel($hook) {
     wp_enqueue_script( 'control_p_custom', plugins_url( 'js/control_p_custom.js', __FILE__ ),
     array( 'wp-blocks', 'wp-components', 'wp-element', 'wp-editor' )
@@ -94,7 +94,7 @@ function custom_block_control_panel($hook) {
 }
 add_action('enqueue_block_editor_assets', 'custom_block_control_panel');
  
-// ƒRƒ“ƒgƒ[ƒ‹ƒpƒlƒ‹css‚ğ“Ç‚İ‚Ş
+// ã‚³ãƒ³ãƒˆãƒ­ãƒ¼ãƒ«ãƒ‘ãƒãƒ«cssã‚’èª­ã¿è¾¼ã‚€
 function custom_style_block_control_panel($hook) {
     wp_enqueue_style( 'style_cp_custom_css', plugins_url( 'css/style_cp_custom.css', __FILE__ ),
     array(),
@@ -103,7 +103,7 @@ function custom_style_block_control_panel($hook) {
 }
 add_action('enqueue_block_assets', 'custom_style_block_control_panel');
 
-// ƒIƒŠƒWƒiƒ‹‚ÌƒJƒeƒSƒŠ[‚ğ’Ç‰Á‚·‚é
+// ã‚ªãƒªã‚¸ãƒŠãƒ«ã®ã‚«ãƒ†ã‚´ãƒªãƒ¼ã‚’è¿½åŠ ã™ã‚‹
 function custom_4to6_plugin_block_categories( $categories, $post ) {
     if ( $post->post_type !== 'post' ) {
         return $categories;
@@ -112,16 +112,16 @@ function custom_4to6_plugin_block_categories( $categories, $post ) {
         $categories,
         array(
             array(
-                'slug' => '4to6-category',   //ƒuƒƒbƒNƒJƒeƒSƒŠ[‚ÌƒXƒ‰ƒbƒO
-                'title' => '4to6 Blocks',  //ƒuƒƒbƒNƒJƒeƒSƒŠ[‚Ì•\¦–¼
-                'icon'  => 'iconMyC',    //ƒAƒCƒRƒ“‚Ìw’èiDashicons or ƒJƒXƒ^ƒ€(SVG)ƒAƒCƒRƒ“j
+                'slug' => '4to6-category',   //ãƒ–ãƒ­ãƒƒã‚¯ã‚«ãƒ†ã‚´ãƒªãƒ¼ã®ã‚¹ãƒ©ãƒƒã‚°
+                'title' => '4to6 Blocks',  //ãƒ–ãƒ­ãƒƒã‚¯ã‚«ãƒ†ã‚´ãƒªãƒ¼ã®è¡¨ç¤ºå
+                'icon'  => 'iconMyC',    //ã‚¢ã‚¤ã‚³ãƒ³ã®æŒ‡å®šï¼ˆDashicons or ã‚«ã‚¹ã‚¿ãƒ (SVG)ã‚¢ã‚¤ã‚³ãƒ³ï¼‰
             ),
         )
     );
 }
 add_filter( 'block_categories', 'custom_4to6_plugin_block_categories', 10, 2 );
 
-// ƒJƒeƒSƒŠ[ƒAƒCƒRƒ“(SVG) script 
+// ã‚«ãƒ†ã‚´ãƒªãƒ¼ã‚¢ã‚¤ã‚³ãƒ³(SVG) script 
 function custom_4to6_category_icon($hook) {
     wp_enqueue_script( '4to6_category_icon_js', plugins_url( 'js/4to6_category_icon.js', __FILE__ ),
     array( 'wp-blocks', 'wp-components', 'wp-element' )
@@ -130,7 +130,7 @@ function custom_4to6_category_icon($hook) {
 add_action('enqueue_block_editor_assets','custom_4to6_category_icon');
 
 
-// ƒuƒ‰ƒbƒNƒŠƒXƒg‚ğ“o˜^‚·‚é
+// ãƒ–ãƒ©ãƒƒã‚¯ãƒªã‚¹ãƒˆã‚’ç™»éŒ²ã™ã‚‹
 function my_plugin_blacklist_blocks($hook) {
     wp_enqueue_script( 'my-plugin-blacklist-blocks', plugins_url( 'js/blacklist.js', __FILE__ ),
         array( 'wp-blocks', 'wp-dom-ready', 'wp-edit-post' )
