@@ -1,0 +1,54 @@
+﻿.marker_tb_btn {
+/*  background: linear-gradient(rgba(255,255,255,0) 0%, #ffffa5 );
+  color: #000033;
+  padding: 3px 2px 0.5px 2px;
+  font-weight: bold;
+  border-radius: 6px;
+*/
+background: linear-gradient(rgba(255,255,255,0) 0%, #ffffa5 ); /* 背景に色を付ける  */ 
+font-weight: bold;
+font-size: 85%;
+border-style: solid;
+border-width: 1px;
+border-color: #f0e68c;
+color: #4d4d00; 
+border-radius: 5px;
+padding: 2px;
+margin-left : 2px;
+margin-right: 2px;
+vertical-align: 2%;
+}
+.btn_bg_class {
+  background: radial-gradient(ellipse farthest-side,rgba(255,255,165,0.8),rgba(255,255,225,0));
+}
+
+.btn_svg_class {
+fill: rgba(26,178,115,0.9);
+}
+
+.btn_svg_class2 {
+fill: #b8b8b8;
+}
+
+.cp_custom_class {
+background:rgba(165,205,255,0.2);
+}
+
+.iconmyc {
+fill: #ffccff;
+animation: paw ease-out 3s infinite; 
+}
+
+@keyframes paw {
+  0% {
+    opacity: 0;
+    transform: scale3d(.3, .3, .3);
+    transform-origin: center;
+  }
+  5%, 100% {
+    opacity: 1;
+  }
+  15%{
+     transform: scale3d(1, 1, 1);
+  }
+}
