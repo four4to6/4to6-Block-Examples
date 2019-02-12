@@ -3,6 +3,7 @@
  *
  * Based on
  * https://github.com/modularwp/gutenberg-block-editable-example
+ *
  */
 ( function() {
 	var __                = wp.i18n.__; // The __() function for internationalization.
@@ -38,12 +39,12 @@
 			icon: { background: 'rgba(254, 243, 224, 0.52)', src: iconEl },             // Font Awesome SVG file. 
 			
 			category: '4to6-category', // Block category. Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
-			 //ƒuƒƒbƒNƒXƒ^ƒCƒ‹‚ð“o˜^‚µ‚Ü‚·B
+			 //ãƒ–ãƒ­ãƒƒã‚¯ã‚¹ã‚¿ã‚¤ãƒ«ã‚’ç™»éŒ²ã—ã¾ã™ã€‚
                         styles: [
                         {
                           name: 'default',
                           label: __( 'Default' ),
-                          isDefault: true   //ƒXƒ^ƒCƒ‹‚ðƒfƒtƒHƒ‹ƒg‚Æ‚µ‚Äƒ}[ƒN‚µ‚Ü‚·B
+                          isDefault: true   //ã‚¹ã‚¿ã‚¤ãƒ«ã‚’ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¨ã—ã¦ãƒžãƒ¼ã‚¯ã—ã¾ã™ã€‚
                          },
                              {
                           name: 'dash_border',
