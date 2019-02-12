@@ -3,7 +3,6 @@
  *
  * Based on
  * https://github.com/modularwp/gutenberg-block-editable-example
- *
  */
 ( function() {
 	var __                = wp.i18n.__; // The __() function for internationalization.
