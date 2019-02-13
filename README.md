@@ -16,15 +16,15 @@ Dashicons にスタイルを充てる example が以下です。
 ```
 icon: ( { background:'#a2837a', foreground:'#dfffff', src:'carrot',} ),   // For gutenberg-examples
 ```
-**N.B.** gutenberg-examples/block.js (esnext) は未確認。 
+**N.B.** gutenberg-examples/block.js (esnext) Operation not confirmed. 
 ## Usage
-WordPress plug-inとしてinstallしてください。  
-dashboardからのinstallか、fileをuploadして  
-installして頂く事で、blockとしてお使い頂けます。
+WordPress plug-inとしてインストールしてください。  
+dashboardからのインストールか、fileをuploadして  
+インストールして頂く事で、blockとしてお使い頂けます。
 
 ## Install
 4to6-Block-Examples-master.zip をdownloadしたら  
-以下に従いplug-inとしてinstallして下さい。
+以下に従いplug-inとしてインストールして下さい。
 1. WordPress管理ダッシュボードの [ **プラグイン** ] > [ **新規追加** ] から  
 [ **プラグインを追加** ] に移動します。
 1. ページ上部の [ **プラグインのアップロード** ] をクリックします。
