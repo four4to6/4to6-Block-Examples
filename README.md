@@ -15,7 +15,7 @@ Dashicons にスタイルを充てる example が以下です。
 ```javascript
 icon: ( { background:'#a2837a', foreground:'#dfffff', src:'carrot',} ),   // For gutenberg-examples  
 ```
-**N.B.** block.js (esnext) バージョンは未確認。 
+**N.B.** gutenberg-examples block.js (esnext) は未確認。 
 ## Usage
 WordPressプラグインとしてインストールしてください。  
 ダッシュボードからのインストールか、ファイルをアップロードして  
