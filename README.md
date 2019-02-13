@@ -11,12 +11,11 @@ WordPress ブロックエディタ (Gutenberg) 用のカスタマイズ ブロ�
 ### note : About display of Font Awesome SVG file 
 gutenberg-examples の block.js (normal)**※** は、  
 この **exampleの方法では表示されません。**    
-Dashicons にスタイルを充てる example が以下です。。  
-**※** esnext バージョンは未確認。  
-【JavaScript】
+Dashicons にスタイルを充てる example が以下です。
 ```javascript
 icon: ( { background:'#a2837a', foreground:'#dfffff', src:'carrot',} ),   // For gutenberg-examples  
 ```
+**※** esnext バージョンは未確認。 
 ## Usage
 WordPressプラグインとしてインストールしてください。  
 ダッシュボードからのインストールか、ファイルをアップロードして  
