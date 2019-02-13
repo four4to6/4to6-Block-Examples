@@ -31,8 +31,7 @@
 		'four-4to6/four4to6-custom-block', // Block name. Must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
 		{
 			title: __( 'FOUR 4to6 Block Example' ), // Block title. __() function allows for internationalization.
-			
-			//icon: ( { background:'#a2837a', foreground:'#dfffff', src:'carrot',} ),   // For gutenberg-examples			
+					
 			//icon: 'carrot',                                                           // Block icon from Dashicons. https://developer.wordpress.org/resource/dashicons/.
 			//icon: { background:'#a2837a', foreground:'#dfffff', src:'carrot',},       // foreground: Dashicons color.
 			icon: { background: 'rgba(254, 243, 224, 0.52)', src: iconEl },             // Font Awesome SVG file. 
