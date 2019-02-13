@@ -6,8 +6,8 @@ Straightforwardなカスタマイズ ブロック example です。
 
 ## Description
 あくまで beginner が対象です。  
-カスタムブロックを創ってみたいとか、  
-試してみたいという方のヒントや参考になれば幸いです。  
+カスタムブロックをCreateしてみたいとか、  
+Tryしてみたいという方のTips and Referenceになれば幸いです。  
 
 ### note : About display of Font Awesome SVG file 
 gutenberg-examples の block.js (normal) は、  
