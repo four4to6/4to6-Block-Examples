@@ -1,7 +1,7 @@
 4to6-Block-Examples
 ===
 4to6-Block-Examples は、
-WordPress ブロックエディタ (Gutenberg) 用の
+WordPress ブロックエディタ (Gutenberg) 用の  
 カスタマイズ ブロック example です。
 
 ## Description
@@ -9,13 +9,13 @@ WordPress ブロックエディタ (Gutenberg) 用の
 概要だけでは伝わらない場合にもう少し丁寧な説明を書く
 
 ## Usage
-WordPressプラグインとしてインストールしてください。
-ダッシュボードからのインストールか、
-ファイルをアップロードしてインストールして頂く事で、
+WordPressプラグインとしてインストールしてください。  
+ダッシュボードからのインストールか、  
+ファイルをアップロードしてインストールして頂く事で、  
 ブロックとしてお使い頂けます。
 
 ## Install
-4to6-Block-Examples.zip をダウンロードしたら
+4to6-Block-Examples.zip をダウンロードしたら  
 以下に従いプラグインとしてインストールして下さい。
 
 ## Licence
