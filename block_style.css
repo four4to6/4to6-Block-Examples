@@ -2,30 +2,6 @@
 margin: 2em auto;
 padding: 1em;
 width: 100%;
-color: #333333; /*文字色*/
-background-color: #ffffff; /* 背景色 */
-border: 1px  #CCC solid;
-border-radius: 8px; /*角の丸み*/ 
-box-shadow:inset 0px 11px 8px -10px #CCC,
-inset 0px -11px 8px -10px #CCC; 
-}
-
-.is-style-dash_border {
- margin: 2em auto;
- padding: 1em;
- width: 100%;
- border: 3px dashed #c0c0c0; /*太さ・線種・色*/
- color: #666666; /* 文字色 */
- background-color: #ffffff; /* 背景色 */
- border-radius: 3px; /*角の丸み*/
-}
-
-.is-style-background_red {
-margin: 2em auto;
- padding: 1em;
- width: 100%; /* ボックス幅 */
- background-color: #ffa5a5; /* ボックス背景色 */
- color: #666; /* 文章色 */
- box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
- border-radius: 10px; /* 角の丸み */
+background-color: #fffff; /* 背景色 */
+border: 1px solid #cccccc; /* 枠線 */
 }
