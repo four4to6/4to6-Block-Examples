@@ -44,17 +44,9 @@ GNU Public License : [https://wordpress.org/about/license/](https://wordpress.or
 作者 : [FOUR 4to6](https://github.com/four4to6)
 
 ## References
-*The underlying block
-
- *[https://github.com/modularwp/gutenberg-block-editable-example](https://github.com/modularwp/gutenberg-block-editable-example)
-
-
-*Gutenberg Handbook
-
- *[https://wordpress.org/gutenberg/handbook/](https://wordpress.org/gutenberg/handbook/)
-
-
-*control panel & Block Style
-
- *[https://wemo.tech/2165](https://wemo.tech/2165)
-
+- The underlying block
+ - [https://github.com/modularwp/gutenberg-block-editable-example](https://github.com/modularwp/gutenberg-block-editable-example)
+- Gutenberg Handbook
+ - [https://wordpress.org/gutenberg/handbook/](https://wordpress.org/gutenberg/handbook/)
+- control panel & Block Style
+ - [https://wemo.tech/2165](https://wemo.tech/2165)
