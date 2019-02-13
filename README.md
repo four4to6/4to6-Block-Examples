@@ -1,7 +1,8 @@
 4to6-Block-Examples
 ===
 4to6-Block-Examples は、  
-WordPress ブロックエディタ (Gutenberg) 用のカスタマイズ ブロック example です。
+WordPress ブロックエディタ (Gutenberg) 用の  
+Straightforwardなカスタマイズ ブロック example です。
 
 ## Description
 あくまで beginner が対象です。  
