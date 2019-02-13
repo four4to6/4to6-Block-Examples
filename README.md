@@ -12,10 +12,11 @@ WordPress ブロックエディタ (Gutenberg) 用のカスタマイズ ブロ�
 gutenberg-examples の block.js (normal)**※** は、  
 この **exampleの方法では表示されません。**    
 Dashicons にスタイルを充てる example が以下です。。  
-**※** esnext バージョンは未確認。
+**※** esnext バージョンは未確認。  
 【JavaScript】
+```javascript
 icon: ( { background:'#a2837a', foreground:'#dfffff', src:'carrot',} ),   // For gutenberg-examples  
-
+```
 ## Usage
 WordPressプラグインとしてインストールしてください。  
 ダッシュボードからのインストールか、ファイルをアップロードして  
