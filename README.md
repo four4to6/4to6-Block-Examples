@@ -4,8 +4,15 @@
 WordPress ブロックエディタ (Gutenberg) 用のカスタマイズ ブロック example です。
 
 ## Description
+あくまで beginner が対象です。  
+カスタムブロックを創ってみたいとか、  
+試してみたいという方のヒントや参考になれば幸いです。  
 
-概要だけでは伝わらない場合にもう少し丁寧な説明を書く
+### note : Font Awesome SVG file の表示について 
+gutenberg-examples の block.js (normal)※ は、  
+この exampleの方法では表示されません。  
+Dashicons にスタイルを充てる example を記してあります。  
+ * ※ esnext バージョンは未確認。
 
 ## Usage
 WordPressプラグインとしてインストールしてください。  
