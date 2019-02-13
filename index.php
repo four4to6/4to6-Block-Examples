@@ -45,9 +45,9 @@ add_action( 'enqueue_block_editor_assets', 'four_4to6_custom_block_example' );
 function four_4to6_custom_block_example_enqueue($hook) {
 	wp_enqueue_style(
 		'four-4to6-custom-block-example-css', // Handle.
-		plugins_url( 'css/style.css', __FILE__ ), // style.css: This file styles the block on the frontend.
+		plugins_url( 'block_style.css', __FILE__ ), // style.css: This file styles the block on the frontend.
 		array( ), // Dependencies, defined above.
-		filemtime( plugin_dir_path( __FILE__ ) . 'css/style.css' ) // filemtime ? Gets file modification time.
+		filemtime( plugin_dir_path( __FILE__ ) . 'block_style.css' ) // filemtime ? Gets file modification time.
 	);
 }
 add_action( 'enqueue_block_assets', 'four_4to6_custom_block_example_enqueue' );
