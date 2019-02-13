@@ -25,7 +25,9 @@ WordPressプラグインとしてインストールしてください。
 ## Licence
 License : GPL2+
 
-License URI : [http://www.gnu.org/licenses/gpl-2.0.txt](http://www.gnu.org/licenses/gpl-2.0.txt)
+License URI : [http://www.gnu.org/licenses/gpl-2.0.txt](http://www.gnu.org/licenses/gpl-2.0.txt)  
+
+GNU Public License : [https://wordpress.org/about/license/](https://wordpress.org/about/license/) 
 
 ## Author
 
