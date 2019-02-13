@@ -20,7 +20,7 @@ icon: ( { background:'#a2837a', foreground:'#dfffff', src:'carrot',} ),   // For
 ## Usage
 WordPress plug-inとしてインストールしてください。  
 dashboardからのインストールか、ファイルをuploadして  
-インストールして頂く事で、blockとしてお使い頂けます。
+インストールして頂く事で、Custom Blockとしてお使い頂けます。
 
 ## Install
 4to6-Block-Examples-master.zip をdownloadしたら  
