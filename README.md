@@ -18,13 +18,13 @@ icon: ( { background:'#a2837a', foreground:'#dfffff', src:'carrot',} ),   // For
 ```
 **N.B.** gutenberg-examples/block.js (esnext) は未確認。 
 ## Usage
-WordPressプラグインとしてインストールしてください。  
-ダッシュボードからのインストールか、ファイルをアップロードして  
-インストールして頂く事で、ブロックとしてお使い頂けます。
+WordPress plug-inとしてinstallしてください。  
+dashboardからのinstallか、fileをuploadして  
+installして頂く事で、blockとしてお使い頂けます。
 
 ## Install
-4to6-Block-Examples-master.zip をダウンロードしたら  
-以下に従いプラグインとしてインストールして下さい。
+4to6-Block-Examples-master.zip をdownloadしたら  
+以下に従いplug-inとしてinstallして下さい。
 1. WordPress管理ダッシュボードの [ **プラグイン** ] > [ **新規追加** ] から  
 [ **プラグインを追加** ] に移動します。
 1. ページ上部の [ **プラグインのアップロード** ] をクリックします。
