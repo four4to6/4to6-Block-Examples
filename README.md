@@ -19,7 +19,7 @@ icon: ( { background:'#a2837a', foreground:'#dfffff', src:'carrot',} ),   // For
 **N.B.** gutenberg-examples/block.js (esnext) Operation not confirmed. 
 ## Usage
 WordPress plug-inとしてインストールしてください。  
-dashboardからのインストールか、fileをuploadして  
+dashboardからのインストールか、ファイルをuploadして  
 インストールして頂く事で、blockとしてお使い頂けます。
 
 ## Install
