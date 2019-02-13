@@ -29,7 +29,7 @@ License URI: [http://www.gnu.org/licenses/gpl-2.0.txt](http://www.gnu.org/licens
 
 ## Author
 
-作者
+作者 : [FOUR 4to6](https://github.com/four4to6)
 
 ## References
 
