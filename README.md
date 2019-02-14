@@ -59,11 +59,14 @@ Customized it : [FOUR 4to6](https://github.com/four4to6)
   - [https://wemo.tech/2166](https://wemo.tech/2166)
 - **Custom SVG Icons**
   - [https://wp.zacgordon.com/2017/12/07/how-to-add-custom-icons-to-gutenberg-editor-blocks-in-wordpress/](https://wp.zacgordon.com/2017/12/07/how-to-add-custom-icons-to-gutenberg-editor-blocks-in-wordpress/)
-- **README.md**
-  - [https://deeeet.com/writing/2014/07/31/readme/](https://deeeet.com/writing/2014/07/31/readme/)
 - **Simple box**
   - [https://love-wave.com/css-waku/](https://love-wave.com/css-waku/)
 - **Font Awesome**
   - [https://fontawesome.com/](https://fontawesome.com/)
 - **Dashicons**
   - [https://developer.wordpress.org/resource/dashicons/](https://developer.wordpress.org/resource/dashicons/)
+- **README.md**
+  - [https://deeeet.com/writing/2014/07/31/readme/](https://deeeet.com/writing/2014/07/31/readme/)
+- **GitHub Flavored Markdown**
+  - [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+  - [https://help.github.com/articles/basic-writing-and-formatting-syntax/](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
