@@ -31,7 +31,7 @@ function isValidBlockType( name ) {
 
             var myComponent = el(components.PanelBody, {
                 title: "装飾設定",
-                icon: 'edit', /* アイコンを指定 */
+                icon: 'admin-customizer', /* アイコンを指定 */
                 className: 'cp_custom_class' 
             },
                 el(components.SelectControl, {
