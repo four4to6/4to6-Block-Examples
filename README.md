@@ -30,7 +30,7 @@ dashboardからのインストールか、ファイルをuploadして
 1. ページ上部の [ **プラグインのアップロード** ] をクリックします。
 1. [ **参照...** ] をクリックし、ダウンロードしたzipファイルを見つけてアップロードします。
 1. プラグインのインストールが完了したら、[ **有効にする** ] をクリックします。
-1. これで完了しました。
+1. You’re done!
 
 ## Licence
 License : GPL2+
@@ -44,26 +44,26 @@ GNU Public License : [https://wordpress.org/about/license/](https://wordpress.or
 作者 : [FOUR 4to6](https://github.com/four4to6)
 
 ## References
-- The underlying block
+- **The underlying block**
   - [https://github.com/modularwp/gutenberg-block-editable-example](https://github.com/modularwp/gutenberg-block-editable-example)
-- Gutenberg Handbook
+- **Gutenberg Handbook**
   - [https://wordpress.org/gutenberg/handbook/](https://wordpress.org/gutenberg/handbook/)
-- control panel & Block Style
+- **control panel & Block Style**
   - [https://wemo.tech/2165](https://wemo.tech/2165)
-- block categories
+- **block categories**
   - [https://wemo.tech/2210](https://wemo.tech/2210)
-- Button to the Toolbar
+- **Button to the Toolbar**
   - [https://technote.space/wordpress/add-button-to-gutenberg](https://technote.space/wordpress/add-button-to-gutenberg)
-- Removing Blocks
+- **Removing Blocks**
   - [https://www.nxworld.net/wordpress/wp-gutenberg-remove-default-block.html](https://www.nxworld.net/wordpress/wp-gutenberg-remove-default-block.html)
   - [https://wemo.tech/2166](https://wemo.tech/2166)
-- Custom SVG Icons
+- **Custom SVG Icons**
   - [https://wp.zacgordon.com/2017/12/07/how-to-add-custom-icons-to-gutenberg-editor-blocks-in-wordpress/](https://wp.zacgordon.com/2017/12/07/how-to-add-custom-icons-to-gutenberg-editor-blocks-in-wordpress/)
-- README.md
+- **README.md**
   - [https://deeeet.com/writing/2014/07/31/readme/](https://deeeet.com/writing/2014/07/31/readme/)
-- Simple box
+- **Simple box**
   - [https://love-wave.com/css-waku/](https://love-wave.com/css-waku/)
-- Font Awesome
+- **Font Awesome**
   - [https://fontawesome.com/](https://fontawesome.com/)
-- Dashicons
+- **Dashicons**
   - [https://developer.wordpress.org/resource/dashicons/](https://developer.wordpress.org/resource/dashicons/)
