@@ -41,7 +41,7 @@ GNU Public License : [https://wordpress.org/about/license/](https://wordpress.or
 
 ## Author
 
-作者 : [FOUR 4to6](https://github.com/four4to6)
+Customized it : [FOUR 4to6](https://github.com/four4to6)
 
 ## References
 - **The underlying block**
