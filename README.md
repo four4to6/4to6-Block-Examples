@@ -48,9 +48,9 @@ GNU Public License : [https://wordpress.org/about/license/](https://wordpress.or
   - [https://github.com/modularwp/gutenberg-block-editable-example](https://github.com/modularwp/gutenberg-block-editable-example)
 - **Gutenberg Handbook**
   - [https://wordpress.org/gutenberg/handbook/](https://wordpress.org/gutenberg/handbook/)
-- **control panel & Block Style**
+- **Control panel & Block Style**
   - [https://wemo.tech/2165](https://wemo.tech/2165)
-- **block categories**
+- **Block categories**
   - [https://wemo.tech/2210](https://wemo.tech/2210)
 - **Button to the Toolbar**
   - [https://technote.space/wordpress/add-button-to-gutenberg](https://technote.space/wordpress/add-button-to-gutenberg)
