@@ -129,8 +129,8 @@ function custom_4to6_category_icon($hook) {
 }
 add_action('enqueue_block_editor_assets','custom_4to6_category_icon');
 
-
-// ブラックリストを登録する
+// ブラックリスト(ホワイトリスト)を登録する
+// js/blacklist.js を js/whitelist.js に差し換える
 function my_plugin_blacklist_blocks($hook) {
     wp_enqueue_script( 'my-plugin-blacklist-blocks', plugins_url( 'js/blacklist.js', __FILE__ ),
         array( 'wp-blocks', 'wp-dom-ready', 'wp-edit-post' )
