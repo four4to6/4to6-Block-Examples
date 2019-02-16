@@ -37,6 +37,10 @@
 			icon: { background: 'rgba(254, 243, 224, 0.52)', src: iconEl },             // Font Awesome SVG file. 
 			
 			category: '4to6-category', // Block category. Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
+
+			// Additional search terms for your block
+                        keywords: [ __( '4to6' ), __( 'custom' ), __( 'example' ) ],
+                        
 			 //ブロックスタイルを登録します。
                         styles: [
                         {
