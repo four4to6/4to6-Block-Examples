@@ -35,7 +35,7 @@
 			//icon: 'carrot',                                                           // Block icon from Dashicons. https://developer.wordpress.org/resource/dashicons/.
 			//icon: { background:'#a2837a', foreground:'#dfffff', src:'carrot',},       // foreground: Dashicons color.
 			icon: { background: 'rgba(254, 243, 224, 0.52)', src: iconEl },             // Font Awesome SVG file. 
-			
+                        description: __( 'this is a FOUR 4tp6 Block description' ),  // This is a short description for your block.			
 			category: '4to6-category', // Block category. Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
 
 			// Additional search terms for your block
