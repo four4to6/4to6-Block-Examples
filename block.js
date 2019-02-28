@@ -57,12 +57,6 @@
                           label: __( 'Background (Red)' )
                          },
                             ],
-			attributes: {
-				content: {
-					type: 'string',
-					default: '',
-				},
-			},
 			
 			attributes: {
 				content: {
