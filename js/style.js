@@ -1,8 +1,4 @@
 ﻿jQuery(document).ready(function($) {
-  wp.blocks.registerBlockStyle("core/paragraph", {
-    name: "default",
-    label: "標準",
-  });
  
   wp.blocks.registerBlockStyle("core/paragraph", {
     name: "dashborder",
